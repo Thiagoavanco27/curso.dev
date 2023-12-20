@@ -1,0 +1,16 @@
+{
+  "name": "curso.dev",
+  "version": "1.0.0",
+  "description": "Repositorio do curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Thiago Reis",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^14.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
