@@ -1,5 +1,6 @@
+import database from "../infra/database.js"
 function Home(){
-    return <h1>Santos caiu pra série B kkkkkkkk</h1>
+    return <h1>Se prepara, pois 2024 vai ser incrivel Carol!</h1>
 
 }
 export default Home;
