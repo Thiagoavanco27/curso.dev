@@ -1,4 +1,3 @@
-import database from "../infra/database.js"
 function Home(){
     return <h1>Se prepara, pois 2024 vai ser incrivel Carol!</h1>
 
